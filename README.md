@@ -23,7 +23,20 @@ Users should be able to:
 
 ### Screenshot
 
+##### Main Menu
+![Screenshot (78)](https://user-images.githubusercontent.com/118118656/209270886-8fee236e-2d30-4b19-a1a8-672942828bef.png)
 
+##### Adding Student Record
+![Screenshot (80)](https://user-images.githubusercontent.com/118118656/209270899-5ecc6cdc-d2d0-422f-b66c-003fb493f1fe.png)
+
+##### Reading Student Record
+![Screenshot (81)](https://user-images.githubusercontent.com/118118656/209270920-daecf06d-70df-45db-8aa6-b440a5d1b6dc.png)
+
+##### Deleting Student Record
+![Screenshot (82)](https://user-images.githubusercontent.com/118118656/209270937-52c31724-4e70-4521-aa42-3f9ff36886c2.png)
+
+##### Getting Deleted Record
+![Screenshot (83)](https://user-images.githubusercontent.com/118118656/209270957-b2b78979-3bed-411c-9bdd-9737566a7d31.png)
 
 ### Built with
 
